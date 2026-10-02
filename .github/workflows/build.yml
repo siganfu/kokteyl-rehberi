@@ -1,15 +1,5 @@
 name: Build APK
 
-# Bu dosya projeyi GitHub üzerinde otomatik derler ve APK'yı "Artifacts" olarak sunar.
-# Yerel bilgisayarda Android SDK/Gradle kurmaya gerek kalmaz.
-#
-# Kullanım:
-#   1) Bu klasörü bir GitHub deposuna yükleyin (push edin).
-#   2) GitHub'da depo sayfasında "Actions" sekmesine girin.
-#   3) "Build APK" iş akışını seçip "Run workflow" butonuna basın (veya main'e push edince otomatik çalışır).
-#   4) İş bitince açılan çalıştırmanın altındaki "Artifacts" bölümünden
-#      "KokteylRehberi-debug-apk" dosyasını indirin; içinde app-debug.apk olacaktır.
-
 on:
   workflow_dispatch:
   push:
@@ -30,8 +20,11 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: Android SDK kur
-        uses: android-actions/setup-android@v3
+      - name: Android SDK lisanslarını kabul et
+        run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null || true
+
+      - name: Gerekli SDK paketlerini indir
+        run: "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "platform-tools" "platforms;android-35" "build-tools;35.0.0"
 
       - name: Gradle kur (8.10.2)
         uses: gradle/actions/setup-gradle@v4
