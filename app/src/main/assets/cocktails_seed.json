@@ -1,0 +1,1619 @@
+[
+ {
+  "name": "Mojito",
+  "cat": "Klasik Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Nane dalı ve lime dilimi",
+  "tags": [
+   "klasik"
+  ],
+  "steps": [
+   "Nane yapraklarını ve şekeri bardağa ekleyin.",
+   "Lime suyunu ilave edin.",
+   "Hafifçe ezin; nane yapraklarını parçalamamaya dikkat edin.",
+   "Beyaz romu ve buzu ekleyin.",
+   "Üstünü soda ile tamamlayın.",
+   "Bardağın dibinden yukarı doğru hafifçe karıştırın.",
+   "Nane dalı ve lime dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "white rum",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 25.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "mint",
+    "ml": null,
+    "a": "10 yaprak",
+    "opt": null
+   },
+   {
+    "i": "sugar",
+    "ml": null,
+    "a": "2 çay kaşığı",
+    "opt": null
+   },
+   {
+    "i": "soda water",
+    "ml": null,
+    "a": "Üstünü tamamla",
+    "opt": null
+   },
+   {
+    "i": "ice",
+    "ml": null,
+    "a": "Bardak dolusu",
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Margarita",
+  "cat": "Klasik Kokteyl",
+  "glass": "Margarita kadehi",
+  "method": "shake",
+  "garnish": "Lime dilimi ve tuz kenarı",
+  "tags": [
+   "klasik"
+  ],
+  "steps": [
+   "Kadehin kenarını lime ile ıslatıp tuza batırın.",
+   "Tekila, triple sec ve lime suyunu buzla dolu bir shaker'a koyun.",
+   "10-15 saniye güçlüce çalkalayın.",
+   "Hazırladığınız kadehe süzün.",
+   "Lime dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "tequila",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "triple sec",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "salt",
+    "ml": null,
+    "a": "Bardak kenarı için",
+    "opt": true
+   }
+  ]
+ },
+ {
+  "name": "Daiquiri",
+  "cat": "Klasik Kokteyl",
+  "glass": "Coupe kadehi",
+  "method": "shake",
+  "garnish": "Lime dilimi",
+  "tags": [
+   "klasik",
+   "sour"
+  ],
+  "steps": [
+   "Kadehi buzla soğutun.",
+   "Rom, lime suyu ve şeker şurubunu buzla dolu shaker'a koyun.",
+   "İyice çalkalayın.",
+   "Soğuttuğunuz kadehe süzün.",
+   "Lime dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "white rum",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 25.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "simple syrup",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Moscow Mule",
+  "cat": "Klasik Kokteyl",
+  "glass": "Bakır kupa",
+  "method": "build",
+  "garnish": "Lime dilimi ve nane dalı",
+  "tags": [
+   "klasik",
+   "highball"
+  ],
+  "steps": [
+   "Bakır kupayı buzla doldurun.",
+   "Votka ve lime suyunu ekleyin.",
+   "Üstünü ginger beer ile tamamlayın.",
+   "Hafifçe karıştırın.",
+   "Lime dilimi ve nane dalı ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "vodka",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "ginger beer",
+    "ml": 100.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Cosmopolitan",
+  "cat": "Klasik Kokteyl",
+  "glass": "Martini kadehi",
+  "method": "shake",
+  "garnish": "Portakal kabuğu",
+  "tags": [
+   "klasik",
+   "martini"
+  ],
+  "steps": [
+   "Tüm malzemeleri buzla dolu shaker'a koyun.",
+   "İyice çalkalayın.",
+   "Soğutulmuş martini kadehine süzün.",
+   "Portakal kabuğu ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "vodka",
+    "ml": 40.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "triple sec",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "cranberry juice",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Long Island Iced Tea",
+  "cat": "Klasik Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Limon dilimi",
+  "tags": [
+   "klasik",
+   "highball"
+  ],
+  "steps": [
+   "Highball bardağını buzla doldurun.",
+   "Votka, cin, rom, tekila, triple sec, limon suyu ve şeker şurubunu ekleyin.",
+   "Üstünü kola ile tamamlayın.",
+   "Hafifçe karıştırın.",
+   "Limon dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "vodka",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "gin",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "white rum",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "tequila",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "triple sec",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lemon juice",
+    "ml": 25.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "simple syrup",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "cola",
+    "ml": null,
+    "a": "Üstünü tamamla",
+    "opt": null
+   },
+   {
+    "i": "ice",
+    "ml": null,
+    "a": "Bardak dolusu",
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Piña Colada",
+  "cat": "Klasik Kokteyl",
+  "glass": "Hurricane bardağı",
+  "method": "blend",
+  "garnish": "Ananas dilimi ve kokteyl kirazı",
+  "tags": [
+   "klasik",
+   "tiki",
+   "tropikal",
+   "frozen"
+  ],
+  "steps": [
+   "Rom, hindistan cevizi kreması, ananas suyu ve bir su bardağı buzu blendera koyun.",
+   "Pürüzsüz olana kadar karıştırın.",
+   "Soğutulmuş hurricane bardağına dökün.",
+   "Ananas dilimi ve kirazla süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "white rum",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "cream of coconut",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "pineapple juice",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "ice",
+    "ml": null,
+    "a": "1 su bardağı",
+    "opt": null
+   },
+   {
+    "i": "pineapple",
+    "ml": null,
+    "a": "1 dilim",
+    "opt": true
+   },
+   {
+    "i": "maraschino cherry",
+    "ml": null,
+    "a": "1 adet",
+    "opt": true
+   }
+  ]
+ },
+ {
+  "name": "Sex on the Beach",
+  "cat": "Klasik Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Portakal dilimi",
+  "tags": [
+   "klasik",
+   "highball"
+  ],
+  "steps": [
+   "Highball bardağını buzla doldurun.",
+   "Votka ve şeftali likörünü ekleyin.",
+   "Portakal suyu ve cranberry suyunu ilave edin.",
+   "Hafifçe karıştırın.",
+   "Portakal dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "vodka",
+    "ml": 40.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "peach schnapps",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "orange juice",
+    "ml": 40.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "cranberry juice",
+    "ml": 40.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "ice",
+    "ml": null,
+    "a": "Bardak dolusu",
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Old Fashioned",
+  "cat": "Klasik Kokteyl",
+  "glass": "Old Fashioned bardağı",
+  "method": "stir",
+  "garnish": "Portakal kabuğu",
+  "tags": [
+   "klasik"
+  ],
+  "steps": [
+   "Küp şekeri bardağa koyun; bitter ve birkaç damla su ekleyin.",
+   "Şekeri eriyene kadar ezin.",
+   "Bardağı buzla doldurun ve burbonu ekleyin.",
+   "Yaklaşık 30 saniye karıştırın.",
+   "Portakal kabuğunun yağını bardağın üzerine sıkın ve kabuğu bardağa bırakın."
+  ],
+  "ing": [
+   {
+    "i": "bourbon",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "sugar cube",
+    "ml": null,
+    "a": "1 adet",
+    "opt": null
+   },
+   {
+    "i": "angostura bitters",
+    "ml": null,
+    "a": "2 dash",
+    "opt": null
+   },
+   {
+    "i": "water",
+    "ml": null,
+    "a": "Birkaç damla",
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Negroni",
+  "cat": "Klasik Kokteyl",
+  "glass": "Old Fashioned bardağı",
+  "method": "stir",
+  "garnish": "Portakal dilimi",
+  "tags": [
+   "klasik"
+  ],
+  "steps": [
+   "Tüm malzemeleri buz dolu karıştırma bardağına koyun.",
+   "20-30 saniye karıştırın.",
+   "Buzla dolu Old Fashioned bardağına süzün.",
+   "Portakal dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "gin",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "campari",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "sweet vermouth",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Martini",
+  "cat": "Klasik Kokteyl",
+  "glass": "Martini kadehi",
+  "method": "stir",
+  "garnish": "Zeytin veya limon kabuğu",
+  "tags": [
+   "klasik",
+   "martini"
+  ],
+  "steps": [
+   "Martini kadehini buzla soğutun.",
+   "Cin ve kuru vermutu buz dolu karıştırma bardağına koyun.",
+   "Yaklaşık 30 saniye karıştırın.",
+   "Soğuttuğunuz kadehe süzün.",
+   "Zeytin veya limon kabuğu ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "gin",
+    "ml": 60.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "dry vermouth",
+    "ml": 10.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Whiskey Sour",
+  "cat": "Klasik Kokteyl",
+  "glass": "Old Fashioned bardağı",
+  "method": "dryshake",
+  "garnish": "Kokteyl kirazı ve portakal dilimi",
+  "tags": [
+   "klasik",
+   "sour"
+  ],
+  "steps": [
+   "Burbon, limon suyu, şeker şurubu ve yumurta akını buzsuz shaker'a koyun.",
+   "Köpürene kadar buzsuz çalkalayın (dry shake).",
+   "Buz ekleyip tekrar çalkalayın.",
+   "Buzla dolu Old Fashioned bardağına süzün.",
+   "Kiraz ve portakal dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "bourbon",
+    "ml": 45.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lemon juice",
+    "ml": 25.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "simple syrup",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "egg white",
+    "ml": null,
+    "a": "1 adet",
+    "opt": true
+   }
+  ]
+ },
+ {
+  "name": "Tequila Sunrise",
+  "cat": "Klasik Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Portakal dilimi ve kiraz",
+  "tags": [
+   "klasik",
+   "highball"
+  ],
+  "steps": [
+   "Highball bardağını buzla doldurun.",
+   "Tekila ve portakal suyunu ekleyin, karıştırın.",
+   "Grenadini yavaşça bardağın kenarından dökün; dibe çökecektir.",
+   "Portakal dilimi ve kirazla süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "tequila",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "orange juice",
+    "ml": 100.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "grenadine",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Aperol Spritz",
+  "cat": "Klasik Kokteyl",
+  "glass": "Şarap kadehi",
+  "method": "build",
+  "garnish": "Portakal dilimi",
+  "tags": [
+   "klasik"
+  ],
+  "steps": [
+   "Şarap kadehini buzla doldurun.",
+   "Önce prosecco, sonra Aperol'ü ekleyin.",
+   "Soda ile tamamlayın.",
+   "Hafifçe karıştırın.",
+   "Portakal dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "prosecco",
+    "ml": 90.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "aperol",
+    "ml": 60.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "soda water",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Caipirinha",
+  "cat": "Klasik Kokteyl",
+  "glass": "Old Fashioned bardağı",
+  "method": "muddle",
+  "garnish": "Lime dilimi",
+  "tags": [
+   "klasik"
+  ],
+  "steps": [
+   "Limeyi dörde bölüp bardağa koyun.",
+   "Şekeri ekleyip limenin suyunu salacak şekilde ezin.",
+   "Bardağı kırılmış buzla doldurun.",
+   "Cachaça'yı ekleyin ve karıştırın."
+  ],
+  "ing": [
+   {
+    "i": "cachaca",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime",
+    "ml": null,
+    "a": "1 adet",
+    "opt": null
+   },
+   {
+    "i": "sugar",
+    "ml": null,
+    "a": "2 çay kaşığı",
+    "opt": null
+   },
+   {
+    "i": "ice",
+    "ml": null,
+    "a": "Bardak dolusu",
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Manhattan",
+  "cat": "Klasik Kokteyl",
+  "glass": "Martini kadehi",
+  "method": "stir",
+  "garnish": "Kokteyl kirazı",
+  "tags": [
+   "klasik",
+   "martini"
+  ],
+  "steps": [
+   "Tüm malzemeleri buz dolu karıştırma bardağına koyun.",
+   "30 saniye karıştırın.",
+   "Soğutulmuş kadehe süzün.",
+   "Kirazla süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "whiskey",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "sweet vermouth",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "angostura bitters",
+    "ml": null,
+    "a": "2 dash",
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Espresso Martini",
+  "cat": "Klasik Kokteyl",
+  "glass": "Martini kadehi",
+  "method": "shake",
+  "garnish": "3 kahve çekirdeği",
+  "tags": [
+   "klasik",
+   "martini"
+  ],
+  "steps": [
+   "Tüm malzemeleri buzla dolu shaker'a koyun.",
+   "Köpürene kadar güçlüce çalkalayın.",
+   "Soğutulmuş kadehe ince süzgeçle süzün.",
+   "Üzerine 3 kahve çekirdeği koyun."
+  ],
+  "ing": [
+   {
+    "i": "vodka",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "coffee liqueur",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "espresso",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "simple syrup",
+    "ml": 10.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Gin and Tonic",
+  "cat": "Klasik Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Lime dilimi",
+  "tags": [
+   "klasik",
+   "highball"
+  ],
+  "steps": [
+   "Bardağı buzla doldurun.",
+   "Cini ekleyin.",
+   "Tonik ile tamamlayın.",
+   "Hafifçe karıştırın.",
+   "Lime dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "gin",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "tonic water",
+    "ml": 150.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Tom Collins",
+  "cat": "Klasik Kokteyl",
+  "glass": "Collins bardağı",
+  "method": "shake",
+  "garnish": "Limon dilimi ve kiraz",
+  "tags": [
+   "klasik",
+   "highball",
+   "sour"
+  ],
+  "steps": [
+   "Cin, limon suyu ve şeker şurubunu buzla dolu shaker'a koyun.",
+   "Çalkalayın.",
+   "Buzla dolu Collins bardağına süzün.",
+   "Soda ile tamamlayın.",
+   "Limon dilimi ve kirazla süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "gin",
+    "ml": 45.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lemon juice",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "simple syrup",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "soda water",
+    "ml": null,
+    "a": "Üstünü tamamla",
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Bloody Mary",
+  "cat": "Klasik Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Kereviz sapı",
+  "tags": [
+   "klasik",
+   "highball"
+  ],
+  "steps": [
+   "Highball bardağını buzla doldurun.",
+   "Votka, domates suyu ve limon suyunu ekleyin.",
+   "Worcestershire, tabasco, tuz ve karabiberi ilave edin.",
+   "Nazikçe karıştırın.",
+   "Kereviz sapı ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "vodka",
+    "ml": 45.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "tomato juice",
+    "ml": 90.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lemon juice",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "worcestershire sauce",
+    "ml": null,
+    "a": "2 dash",
+    "opt": null
+   },
+   {
+    "i": "tabasco sauce",
+    "ml": null,
+    "a": "2 dash",
+    "opt": null
+   },
+   {
+    "i": "salt",
+    "ml": null,
+    "a": "1 tutam",
+    "opt": true
+   },
+   {
+    "i": "black pepper",
+    "ml": null,
+    "a": "1 tutam",
+    "opt": true
+   },
+   {
+    "i": "celery",
+    "ml": null,
+    "a": "1 sap",
+    "opt": true
+   }
+  ]
+ },
+ {
+  "name": "Mai Tai",
+  "cat": "Klasik Kokteyl",
+  "glass": "Old Fashioned bardağı",
+  "method": "shake",
+  "garnish": "Nane dalı ve lime dilimi",
+  "tags": [
+   "klasik",
+   "tiki"
+  ],
+  "steps": [
+   "Tüm malzemeleri buzla dolu shaker'a koyun.",
+   "İyice çalkalayın.",
+   "Kırılmış buzla dolu bardağa süzün.",
+   "Nane dalı ve lime ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "white rum",
+    "ml": 40.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "dark rum",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "triple sec",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "orgeat syrup",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Cuba Libre",
+  "cat": "Klasik Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Lime dilimi",
+  "tags": [
+   "klasik",
+   "highball"
+  ],
+  "steps": [
+   "Highball bardağını buzla doldurun.",
+   "Rom ve lime suyunu ekleyin.",
+   "Kola ile tamamlayın.",
+   "Hafifçe karıştırın.",
+   "Lime dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "white rum",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 10.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "cola",
+    "ml": 120.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Dark and Stormy",
+  "cat": "Klasik Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Lime dilimi",
+  "tags": [
+   "klasik",
+   "highball"
+  ],
+  "steps": [
+   "Bardağı buzla doldurun.",
+   "Ginger beer'i ekleyin.",
+   "Koyu romu üzerine yavaşça dökün.",
+   "Lime suyu ekleyin ve lime dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "dark rum",
+    "ml": 60.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "ginger beer",
+    "ml": 100.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 10.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Mimosa",
+  "cat": "Şampanyalı Kokteyl",
+  "glass": "Şampanya flüt",
+  "method": "build",
+  "garnish": "Portakal kabuğu",
+  "tags": [
+   "klasik",
+   "sampanya"
+  ],
+  "steps": [
+   "Flüt kadehe önce şampanyayı yavaşça doldurun.",
+   "Soğuk portakal suyunu ekleyin.",
+   "Karıştırmadan servis edin."
+  ],
+  "ing": [
+   {
+    "i": "champagne",
+    "ml": 75.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "orange juice",
+    "ml": 75.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Bellini",
+  "cat": "Şampanyalı Kokteyl",
+  "glass": "Şampanya flüt",
+  "method": "build",
+  "garnish": null,
+  "tags": [
+   "klasik",
+   "sampanya"
+  ],
+  "steps": [
+   "Şeftali püresini flüt kadehe koyun.",
+   "Üzerine yavaşça prosecco ekleyin.",
+   "Hafifçe karıştırın."
+  ],
+  "ing": [
+   {
+    "i": "prosecco",
+    "ml": 100.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "peach puree",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Kamikaze",
+  "cat": "Shot",
+  "glass": "Shot bardağı",
+  "method": "shake",
+  "garnish": "Lime dilimi",
+  "tags": [
+   "shot"
+  ],
+  "steps": [
+   "Tüm malzemeleri buzla dolu shaker'a koyun.",
+   "Çalkalayın.",
+   "Shot bardaklarına süzün."
+  ],
+  "ing": [
+   {
+    "i": "vodka",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "triple sec",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Gimlet",
+  "cat": "Klasik Kokteyl",
+  "glass": "Coupe kadehi",
+  "method": "shake",
+  "garnish": "Lime dilimi",
+  "tags": [
+   "klasik",
+   "sour"
+  ],
+  "steps": [
+   "Cin, lime suyu ve şeker şurubunu buzla dolu shaker'a koyun.",
+   "Çalkalayın.",
+   "Soğutulmuş kadehe süzün.",
+   "Lime dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "gin",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "simple syrup",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Paloma",
+  "cat": "Klasik Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Greyfurt dilimi ve tuz kenarı",
+  "tags": [
+   "klasik",
+   "highball"
+  ],
+  "steps": [
+   "Bardağın kenarını tuzla süsleyin (isteğe bağlı).",
+   "Bardağı buzla doldurun.",
+   "Tekila, greyfurt suyu ve lime suyunu ekleyin.",
+   "Soda ile tamamlayın ve hafifçe karıştırın."
+  ],
+  "ing": [
+   {
+    "i": "tequila",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "grapefruit juice",
+    "ml": 60.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lime juice",
+    "ml": 10.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "soda water",
+    "ml": null,
+    "a": "Üstünü tamamla",
+    "opt": null
+   },
+   {
+    "i": "salt",
+    "ml": null,
+    "a": "Bardak kenarı için",
+    "opt": true
+   }
+  ]
+ },
+ {
+  "name": "Amaretto Sour",
+  "cat": "Klasik Kokteyl",
+  "glass": "Old Fashioned bardağı",
+  "method": "dryshake",
+  "garnish": "Kokteyl kirazı",
+  "tags": [
+   "sour"
+  ],
+  "steps": [
+   "Amaretto, limon suyu, şeker şurubu ve yumurta akını buzsuz shaker'a koyun.",
+   "Buzsuz çalkalayın.",
+   "Buz ekleyip tekrar çalkalayın.",
+   "Buzla dolu bardağa süzün.",
+   "Kirazla süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "amaretto",
+    "ml": 45.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lemon juice",
+    "ml": 25.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "simple syrup",
+    "ml": 10.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "egg white",
+    "ml": null,
+    "a": "1 adet",
+    "opt": true
+   }
+  ]
+ },
+ {
+  "name": "Sidecar",
+  "cat": "Klasik Kokteyl",
+  "glass": "Coupe kadehi",
+  "method": "shake",
+  "garnish": "Portakal kabuğu",
+  "tags": [
+   "klasik",
+   "sour"
+  ],
+  "steps": [
+   "Tüm malzemeleri buzla dolu shaker'a koyun.",
+   "İyice çalkalayın.",
+   "Soğutulmuş kadehe süzün.",
+   "Portakal kabuğu ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "cognac",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "triple sec",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lemon juice",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Mint Julep",
+  "cat": "Klasik Kokteyl",
+  "glass": "Julep kupası",
+  "method": "muddle",
+  "garnish": "Bol nane dalı",
+  "tags": [
+   "klasik"
+  ],
+  "steps": [
+   "Nane yapraklarını şeker şurubuyla kupanın içinde hafifçe ezin.",
+   "Burbonu ekleyin.",
+   "Kupayı kırılmış buzla doldurun ve karıştırın.",
+   "Bol nane dalı ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "bourbon",
+    "ml": 60.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "mint",
+    "ml": null,
+    "a": "8 yaprak",
+    "opt": null
+   },
+   {
+    "i": "simple syrup",
+    "ml": 10.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "ice",
+    "ml": null,
+    "a": "Bardak dolusu",
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "White Russian",
+  "cat": "Klasik Kokteyl",
+  "glass": "Old Fashioned bardağı",
+  "method": "build",
+  "garnish": null,
+  "tags": [
+   "klasik"
+  ],
+  "steps": [
+   "Bardağı buzla doldurun.",
+   "Votka ve kahve likörünü ekleyin.",
+   "Üzerine kremayı yavaşça dökün.",
+   "Servis ederken hafifçe karıştırın."
+  ],
+  "ing": [
+   {
+    "i": "vodka",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "coffee liqueur",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "cream",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Screwdriver",
+  "cat": "Klasik Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Portakal dilimi",
+  "tags": [
+   "highball"
+  ],
+  "steps": [
+   "Highball bardağını buzla doldurun.",
+   "Votka ve portakal suyunu ekleyin.",
+   "Karıştırın.",
+   "Portakal dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "vodka",
+    "ml": 50.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "orange juice",
+    "ml": 100.0,
+    "a": null,
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Virgin Mojito",
+  "cat": "Alkolsüz Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Nane dalı ve lime dilimi",
+  "tags": [
+   "alkolsuz"
+  ],
+  "steps": [
+   "Nane yapraklarını ve şekeri bardağa koyun.",
+   "Lime suyunu ekleyip hafifçe ezin.",
+   "Bardağı kırılmış buzla doldurun.",
+   "Soda ile tamamlayın ve karıştırın.",
+   "Nane dalı ve lime dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "lime juice",
+    "ml": 25.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "mint",
+    "ml": null,
+    "a": "10 yaprak",
+    "opt": null
+   },
+   {
+    "i": "sugar",
+    "ml": null,
+    "a": "2 çay kaşığı",
+    "opt": null
+   },
+   {
+    "i": "soda water",
+    "ml": null,
+    "a": "Üstünü tamamla",
+    "opt": null
+   },
+   {
+    "i": "ice",
+    "ml": null,
+    "a": "Bardak dolusu",
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Shirley Temple",
+  "cat": "Alkolsüz Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "build",
+  "garnish": "Kokteyl kirazı",
+  "tags": [
+   "alkolsuz",
+   "highball"
+  ],
+  "steps": [
+   "Bardağı buzla doldurun.",
+   "Grenadini ekleyin.",
+   "Ginger ale ile tamamlayın ve hafifçe karıştırın.",
+   "Kirazla süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "ginger ale",
+    "ml": 150.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "grenadine",
+    "ml": 15.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "maraschino cherry",
+    "ml": null,
+    "a": "1 adet",
+    "opt": true
+   }
+  ]
+ },
+ {
+  "name": "Virgin Piña Colada",
+  "cat": "Alkolsüz Kokteyl",
+  "glass": "Hurricane bardağı",
+  "method": "blend",
+  "garnish": "Ananas dilimi",
+  "tags": [
+   "alkolsuz",
+   "tropikal",
+   "frozen"
+  ],
+  "steps": [
+   "Hindistan cevizi kreması, ananas suyu ve bir su bardağı buzu blendera koyun.",
+   "Pürüzsüz olana kadar karıştırın.",
+   "Hurricane bardağına dökün.",
+   "Ananas dilimi ile süsleyin."
+  ],
+  "ing": [
+   {
+    "i": "cream of coconut",
+    "ml": 30.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "pineapple juice",
+    "ml": 90.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "ice",
+    "ml": null,
+    "a": "1 su bardağı",
+    "opt": null
+   },
+   {
+    "i": "pineapple",
+    "ml": null,
+    "a": "1 dilim",
+    "opt": true
+   }
+  ]
+ },
+ {
+  "name": "Cinderella",
+  "cat": "Alkolsüz Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "shake",
+  "garnish": "Portakal dilimi",
+  "tags": [
+   "alkolsuz",
+   "tropikal"
+  ],
+  "steps": [
+   "Meyve sularını ve grenadini buzla dolu shaker'a koyun.",
+   "Çalkalayın.",
+   "Buzla dolu bardağa süzün.",
+   "Soda ile tamamlayın."
+  ],
+  "ing": [
+   {
+    "i": "orange juice",
+    "ml": 40.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "pineapple juice",
+    "ml": 40.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "lemon juice",
+    "ml": 20.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "grenadine",
+    "ml": 10.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "soda water",
+    "ml": null,
+    "a": "Üstünü tamamla",
+    "opt": null
+   }
+  ]
+ },
+ {
+  "name": "Mint Lemonade",
+  "cat": "Alkolsüz Kokteyl",
+  "glass": "Highball bardağı",
+  "method": "muddle",
+  "garnish": "Nane dalı ve limon dilimi",
+  "tags": [
+   "alkolsuz",
+   "highball"
+  ],
+  "steps": [
+   "Nane yapraklarını şeker şurubuyla hafifçe ezin.",
+   "Limon suyunu ekleyin.",
+   "Bardağı buzla doldurun.",
+   "Soda ile tamamlayıp karıştırın."
+  ],
+  "ing": [
+   {
+    "i": "lemon juice",
+    "ml": 40.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "mint",
+    "ml": null,
+    "a": "8 yaprak",
+    "opt": null
+   },
+   {
+    "i": "simple syrup",
+    "ml": 25.0,
+    "a": null,
+    "opt": null
+   },
+   {
+    "i": "soda water",
+    "ml": null,
+    "a": "Üstünü tamamla",
+    "opt": null
+   },
+   {
+    "i": "ice",
+    "ml": null,
+    "a": "Bardak dolusu",
+    "opt": null
+   }
+  ]
+ }
+]
